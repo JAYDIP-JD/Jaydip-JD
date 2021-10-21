@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JAYDIPNJD
 - 👀 I’m CTO of NJD Technologies
-- 🌱 I’m currently Working AS Android And Flutter 
+- 🌱 I’m currently Working AS Android And Flutter Dveloper
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  jaydipmaniya21@gmail.com
 
